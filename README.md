@@ -1,5 +1,7 @@
 # 💡 US Retail Sales Tableau Data Analytics Project by Shubham Pawar
 
+*[My LinkedIn Profile.](https://www.linkedin.com/in/mjshubham21/)*
+
 # **Executive Retail Sales Analytics Dashboard**
 An interactive Tableau dashboard built to analyze retail sales data and uncover valuable insights about **regional performance, profitability, and product trends**.
 
@@ -73,19 +75,23 @@ The dashboard answers questions like:
 - **Dashboard Screenshot**  
   ![Dashboard](https://github.com/mjshubham21/Retail_Sales_Analysis_Tableau_Project/blob/main/images/Dashboard.png)
 
-- **Data Story 1 - Central Region Success **
+- **Data Story 1 - Central Region Success**
   ![Data Story 1](https://github.com/mjshubham21/Retail_Sales_Analysis_Tableau_Project/blob/main/images/DataStory1.png)
 
-- **Data Story 2 - NYC was Best Performer **
+- **Data Story 2 - NYC was Best Performer**
+
   ![Data Story 2](https://github.com/mjshubham21/Retail_Sales_Analysis_Tableau_Project/blob/main/images/DataStory2.png)
 
-- **Data Story 3 - November had Peak Sales **
+- **Data Story 3 - November had Peak Sales**
+
   ![Data Story 3](https://github.com/mjshubham21/Retail_Sales_Analysis_Tableau_Project/blob/main/images/DataStory3.png)
 ---
 
 ## 🛠️ Tools & Technologies
 - **Tableau Desktop / Tableau Public** – Visualization and storytelling.  
-- **Dataset Source** – Maven Analytics retail sales dataset.
+- **Dataset Source** – Maven Analytics retail sales dataset. 
+- **![Dataset Link in Repo](https://github.com/mjshubham21/Retail_Sales_Analysis_Tableau_Project/blob/main/Maven%20Supplies%20Raw.xlsx)**
+*Note: We have 2 Excel file's for data source, another is goals.xlsx*
 
 ---
 
